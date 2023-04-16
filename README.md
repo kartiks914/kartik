@@ -16,15 +16,15 @@
 
 <div align="center">
 <div><h3>Lets connect 😃</h3></div>
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartiks914&theme=midnight-purple&show_icons=true)\
+[![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartiks914&theme=midnight-purple&show_icons=true)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartiks914&layout=compact&theme=radical&hide_border=true)](https://github.com/kartiks914) 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kartiks914&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kartiks914@gmail.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rajatjoshi_2.0/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-joshi2308/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Rajatjoshi)
+//[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rajatjoshi_2.0/)
+//[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-joshi2308/) 
+//[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Rajatjoshi)
 </div>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=your-github-kartiks914 &style=flat-square&color=232323">
