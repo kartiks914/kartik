@@ -16,6 +16,10 @@
 
 <div align="center">
 <div><h3>Lets connect 😃</h3></div>
+![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartiks914&theme=midnight-purple&show_icons=true)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartiks914&layout=compact&theme=radical&hide_border=true)](https://github.com/kartiks914) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kartiks914&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kartiks914@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rajatjoshi_2.0/)
