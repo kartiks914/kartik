@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartiks914" alt="kartiks914" /> </a> </p>
 
-                            - 👋 I am Currently learning Azure
+                            - 👋 I am Currently learning about Cybersecurity & Digital Forensics, Azure, VAPT.
                             - 💭 I am always up for hackathons, Lets git it done !
                             - 💬 Ask me about Cybersecurity and Cloud computing :) 
                             - ⚡ Fun fact : I love Travelling and meeting new people !
