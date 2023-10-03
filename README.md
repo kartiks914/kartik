@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Sharma </h1>
-<h3 align="center">CS Undergrad, Cybersecurity</h3>
+<h3 align="center">Computer Science Undergrad, Cybersecurity</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartiks914" alt="kartiks914" /> </a> </p>
 
