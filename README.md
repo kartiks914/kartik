@@ -17,7 +17,7 @@
 <div align="center">
 <div><h3>Lets connect 😃</h3></div>
 
- ![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartiks914&theme=midnight-purple&show_icons=true)\
+ ![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsparththing&theme=midnight-purple&show_icons=true)\
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartiks914&layout=compact&theme=radical&hide_border=true)](https://github.com/kartiks914)
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kartiks914&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
